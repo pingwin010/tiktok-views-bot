@@ -4,8 +4,7 @@ tiktok views bot tool x-ladon x-gorgon x-argus full api tiktok x-khronos, x-lado
 #testing new version
 ### updates
 
-## TikTok Views  Tool
-
+## TikTok Views Tool
 ## Contact Telegram @pingwin010
 https://t.me/pingwin010
 
