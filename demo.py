@@ -16,7 +16,6 @@ from signer.argus import Argus
 from signer.ladon import Ladon
 from signer.gorgon import Gorgon
 
-
 # Additional variables
 # Additional variables
 __offset = ["-28800", "-21600"]
