@@ -8,7 +8,6 @@ tiktok views bot tool x-ladon x-gorgon x-argus full api tiktok x-khronos, x-lado
 https://t.me/pingwin010
 
 # TikTok Private API
-
 # Tiktok (Source Code)
 * Private API
 * X-Gorgon
